@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by QuickShortcut.rc
+// Used by QuickShortcut2.rc
 //
 #define IDI_ICON1                       101
 

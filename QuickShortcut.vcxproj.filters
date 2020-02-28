@@ -25,12 +25,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="QuickShortcut.rc">
+    <ResourceCompile Include="QuickShortcut2.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\Downloads\QuickShortcus.ico">
+    <Image Include="Resources\PasteTool.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

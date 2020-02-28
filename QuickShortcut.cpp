@@ -58,5 +58,5 @@ public:
 int main()
 {
 	Shortcuts shortcuts;
-	shortcuts.SnippingTool();
+	shortcuts.Paste();
 }
